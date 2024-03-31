@@ -1,0 +1,14 @@
+Word: {{word}}
+Provide a 1-4 word explanation that captures the most common meaning of the word:
+
+For example:
+
+Word: elucidate
+explain, clarify
+
+Word: terse
+brief, concise
+
+The key elements are:
+Emphasize capturing the most common/core meaning
+Just reply with the explanation, no need to repeat the word
